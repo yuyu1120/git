@@ -1,4 +1,3 @@
 <!-- NAVBAR -->
 <!-- MAIN -->
-<!-- ASIDE -->
 <!-- FOOTER -->
